@@ -7,8 +7,6 @@
 	<name>heroku.services</name>
 	<description>Demo project for Spring Boot - Test_01_BPS</description>
 
-
-
 	<parent>
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
